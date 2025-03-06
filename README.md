@@ -6,7 +6,13 @@
 
 
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+## Projeto Acadêmico – Modelagem e Planejamento de Sistemas
+
+Este projeto teve como objetivo aprofundar o entendimento das etapas fundamentais do desenvolvimento de software, proporcionando uma visão estruturada sobre como um sistema é planejado e documentado antes da implementação. O trabalho envolveu a criação de casos de uso, levantamento de requisitos, modelagem de processos, modelagem de banco de dados e elaboração de diagramas essenciais, como o diagrama de casos de uso e o modelo entidade-relacionamento (MER).
+
+Por meio dessas atividades, o projeto ajudou a compreender melhor o ciclo de vida de um sistema, desde a fase de análise e definição de escopo até o planejamento da estrutura de dados. Além disso, proporcionou uma visão mais clara sobre como os requisitos do usuário são transformados em especificações técnicas, facilitando a comunicação entre as áreas de negócio e a equipe de desenvolvimento.
+
+Essa experiência contribuiu significativamente para a familiarização com práticas essenciais do desenvolvimento de software, como documentação técnica, modelagem de sistemas e organização de processos, que são fundamentais para a construção de soluções eficientes e bem estruturadas.
 
 ## Integrantes
 
