@@ -40,10 +40,11 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/5-Gerenciamento-Projeto.md"> Gerenciamento do Projeto</a></li>
 <li><a href="docs/6-Interface-Sistema.md"> Interface do Sistema</a></li>
 <li><a href="docs/7-Indicadores.md"> Indicadores</a></li>
-<li><a href="docs/8-Banco-De-Dados.sql"> Banco de dados</a></li>
+<li><a href="docs/8- Banco De Dados.sql"> Banco de dados</a></li>
 <li><a href="docs/9-Conclusão.md"> Conclusão </a></li>
-<li><a href="docs/Referencias.md"> Referências </a></li>
+<li><a href="docs/Referências.md"> Referências </a></li>
 </ol>
+
 
 
 # Apresentação
