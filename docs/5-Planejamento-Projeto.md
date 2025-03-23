@@ -3,14 +3,14 @@
 ## 5.1. Divisão de Papéis
 
 ### Sprint 1
-- _Scrum master_: Wilker
+- _Scrum master_: Lucas 
 - Documentação: Lucas
 - Testes: Kayky
 
 ### Sprint 2
 - _Scrum master_: Sara
 - Desenvolvedor _front-end_: Kayky
-- Desenvolvedor _back-end_: Wilker
+- Desenvolvedor _back-end_: Lucas
 - Testes: Diogo
 
 ## 5.2. Quadro de tarefas
